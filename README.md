@@ -2,7 +2,10 @@
 
 ## About
 
-A Packer template to create Ubuntu-server vm with a GUI and Labtainers.
+A Packer template to create Ubuntu-server vm with a GUI and
+Labtainers.
+
+Originally handled in https://github.com/IlyesBenighil/LabtainersPFE/tree/vm
 
 ## Usage
 To create VirtualBox virtual machine.
